@@ -1,5 +1,6 @@
 dependencies:
   - dtale
+  - nbserverproxy
   - pip
   - pip:
     - jupyter-server-proxy

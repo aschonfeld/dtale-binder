@@ -4,5 +4,5 @@ jupyter serverextension enable --sys-prefix jupyter_server_proxy
 # bokeh launches at startup
 mv bokehserverextension.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages/
 # enable bokeh extension
-jupyter serverextension enable --sys-prefix bokehserverextension
+jupyter serverextension enable --sys-prefix dtaleserverextension
 
