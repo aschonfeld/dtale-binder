@@ -1,0 +1,6 @@
+dependencies:
+  - dtale
+  - pip
+  - pip:
+    - jupyter-server-proxy
+
