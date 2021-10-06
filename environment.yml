@@ -1,5 +1,6 @@
 dependencies:
-  - dtale
+  - dash==2.0.0
+  - dtale==1.58.3
   - nbserverproxy
   - pip
   - pip:
